@@ -1,0 +1,6 @@
+{
+  "name": "AgriSmart - Smart Agriculture Monitoring System",
+  "description": "An offline-first, encrypted mobile smart agriculture monitoring and farm management system for crop health, soil moisture, environmental tracking, smart irrigation alerts, activity scheduling, and farm records.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

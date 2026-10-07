@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+html.text-size-normal {
+  font-size: 16px;
+}
+
+html.text-size-large {
+  font-size: 18px;
+}
+
+html.text-size-xlarge {
+  font-size: 20px;
+}
+
+html.high-contrast {
+  filter: contrast(115%);
+}
+
+html.high-contrast body {
+  background-color: #f1f5f9;
+  color: #020617;
+}
+
+/* Custom smooth scroll and tap highlights */
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
